@@ -1,0 +1,54 @@
+TEST CASE 1:
+Input:
+3
+Enter job start time, end time, and earnings
+0900
+600
+0800
+1300
+100
+0945
+1400
+200
+Output:
+The number of tasks and earnings available for others
+Task : 2
+Earnings : 300
+
+TEST CASE 2:
+Input:
+3
+Enter job start time, end time, and earnings
+0900
+100
+1000
+1200
+500
+1100
+1200
+300
+Output:
+The number of tasks and earnings available for others
+Task : 2
+Earnings : 400
+
+TEST CASE 3:
+Input:
+4
+Enter job start time, end time, and earnings
+0900
+1000
+250
+0945
+1200
+550
+1130
+1500
+150
+1100
+1200
+50
+Output:
+The number of tasks and earnings available for others
+Task : 3
+Earnings : 450
